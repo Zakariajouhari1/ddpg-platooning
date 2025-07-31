@@ -1,0 +1,205 @@
+2025-07-31 12:12:49,154 - INFO - === Modular DDPG Vehicle Platooning ===
+2025-07-31 12:12:49,154 - INFO - Paper: Multi-Task Vehicle Platoon Control: A Deep Deterministic Policy Gradient Approach
+2025-07-31 12:12:49,154 - INFO - Generating SUMO network files...
+2025-07-31 12:12:49,156 - INFO - SUMO files created in: sumo_files
+2025-07-31 12:12:50,601 - INFO - Using device: cpu
+2025-07-31 12:12:50,601 - INFO - Starting training for 500 episodes...
+2025-07-31 12:12:50,601 - INFO - Starting training for 500 episodes...
+2025-07-31 12:13:13,881 - INFO - Episode   10 | Avg Reward: -2604.97 | Critic Loss: 87763.1531 | Actor Loss: 148.0018 | Buffer Size:   1100 | Noise: 0.050
+2025-07-31 12:14:08,460 - INFO - Episode   20 | Avg Reward:  -106.34 | Critic Loss: 42383.9025 | Actor Loss: 139.5279 | Buffer Size:   2100 | Noise: 0.050
+2025-07-31 12:14:50,828 - INFO - Episode   30 | Avg Reward:  -106.30 | Critic Loss: 24175.5356 | Actor Loss: 128.1711 | Buffer Size:   3100 | Noise: 0.050
+2025-07-31 12:15:21,195 - INFO - Episode   40 | Avg Reward:  -106.33 | Critic Loss: 21565.8051 | Actor Loss:  96.7031 | Buffer Size:   4100 | Noise: 0.050
+2025-07-31 12:15:56,331 - INFO - Episode   50 | Avg Reward:  -106.35 | Critic Loss: 23402.4153 | Actor Loss:  80.6249 | Buffer Size:   5100 | Noise: 0.050
+2025-07-31 12:16:34,472 - INFO - Episode   60 | Avg Reward:  -106.33 | Critic Loss: 19230.6406 | Actor Loss:  76.2166 | Buffer Size:   6100 | Noise: 0.050
+2025-07-31 12:20:55,519 - INFO - === Modular DDPG Vehicle Platooning ===
+2025-07-31 12:20:55,519 - INFO - Paper: Multi-Task Vehicle Platoon Control: A Deep Deterministic Policy Gradient Approach
+2025-07-31 12:20:55,520 - INFO - Generating SUMO network files...
+2025-07-31 12:20:55,521 - INFO - SUMO files created in: sumo_files
+2025-07-31 12:20:56,594 - INFO - Using device: cpu
+2025-07-31 12:20:56,595 - INFO - Starting training for 500 episodes...
+2025-07-31 12:20:56,595 - INFO - Starting training for 500 episodes...
+2025-07-31 12:20:59,177 - ERROR - Error in episode 2: not enough values to unpack (expected 8, got 7)
+2025-07-31 12:20:59,973 - ERROR - Error in episode 3: not enough values to unpack (expected 8, got 7)
+2025-07-31 12:21:00,761 - ERROR - Error in episode 4: not enough values to unpack (expected 8, got 7)
+2025-07-31 12:21:01,561 - ERROR - Error in episode 5: not enough values to unpack (expected 8, got 7)
+2025-07-31 12:21:02,361 - ERROR - Error in episode 6: not enough values to unpack (expected 8, got 7)
+2025-07-31 12:21:03,161 - ERROR - Error in episode 7: not enough values to unpack (expected 8, got 7)
+2025-07-31 12:21:03,960 - ERROR - Error in episode 8: not enough values to unpack (expected 8, got 7)
+2025-07-31 12:21:04,756 - ERROR - Error in episode 9: not enough values to unpack (expected 8, got 7)
+2025-07-31 12:21:05,544 - ERROR - Error in episode 10: not enough values to unpack (expected 8, got 7)
+2025-07-31 12:22:00,856 - INFO - === Modular DDPG Vehicle Platooning ===
+2025-07-31 12:22:00,857 - INFO - Paper: Multi-Task Vehicle Platoon Control: A Deep Deterministic Policy Gradient Approach
+2025-07-31 12:22:00,857 - INFO - Generating SUMO network files...
+2025-07-31 12:22:00,858 - INFO - SUMO files created in: sumo_files
+2025-07-31 12:22:01,822 - INFO - Using device: cpu
+2025-07-31 12:22:01,822 - INFO - Starting training for 500 episodes...
+2025-07-31 12:22:01,822 - INFO - Starting training for 500 episodes...
+2025-07-31 12:22:02,567 - ERROR - Error in episode 0: ThreeStepReplayBuffer.push() takes 6 positional arguments but 7 were given
+2025-07-31 12:22:03,362 - ERROR - Error in episode 1: ThreeStepReplayBuffer.push() takes 6 positional arguments but 7 were given
+2025-07-31 12:22:04,151 - ERROR - Error in episode 2: ThreeStepReplayBuffer.push() takes 6 positional arguments but 7 were given
+2025-07-31 12:22:04,944 - ERROR - Error in episode 3: ThreeStepReplayBuffer.push() takes 6 positional arguments but 7 were given
+2025-07-31 12:22:05,744 - ERROR - Error in episode 4: ThreeStepReplayBuffer.push() takes 6 positional arguments but 7 were given
+2025-07-31 12:22:06,535 - ERROR - Error in episode 5: ThreeStepReplayBuffer.push() takes 6 positional arguments but 7 were given
+2025-07-31 12:22:07,324 - ERROR - Error in episode 6: ThreeStepReplayBuffer.push() takes 6 positional arguments but 7 were given
+2025-07-31 12:22:08,133 - ERROR - Error in episode 7: ThreeStepReplayBuffer.push() takes 6 positional arguments but 7 were given
+2025-07-31 12:22:08,923 - ERROR - Error in episode 8: ThreeStepReplayBuffer.push() takes 6 positional arguments but 7 were given
+2025-07-31 12:22:09,715 - ERROR - Error in episode 9: ThreeStepReplayBuffer.push() takes 6 positional arguments but 7 were given
+2025-07-31 12:28:11,981 - INFO - === Modular DDPG Vehicle Platooning ===
+2025-07-31 12:28:11,982 - INFO - Paper: Multi-Task Vehicle Platoon Control: A Deep Deterministic Policy Gradient Approach
+2025-07-31 12:28:11,982 - INFO - Generating SUMO network files...
+2025-07-31 12:28:11,982 - INFO - SUMO files created in: sumo_files
+2025-07-31 12:28:12,953 - INFO - Using device: cpu
+2025-07-31 12:28:12,954 - INFO - Starting training for 500 episodes...
+2025-07-31 12:28:12,954 - INFO - Starting training for 500 episodes...
+2025-07-31 12:28:37,008 - INFO - Episode   10 | Avg Reward:  -749.81 | Critic Loss: 12121.7722 | Actor Loss:  22.4837 | Buffer Size:   1100 | Noise: 0.050
+2025-07-31 12:29:06,965 - INFO - Episode   20 | Avg Reward:  -106.30 | Critic Loss: 8325.5606 | Actor Loss:  24.9466 | Buffer Size:   2100 | Noise: 0.050
+2025-07-31 12:29:38,049 - INFO - Episode   30 | Avg Reward:  -106.38 | Critic Loss: 5975.1803 | Actor Loss:  30.9463 | Buffer Size:   3100 | Noise: 0.050
+2025-07-31 12:30:17,422 - INFO - Episode   40 | Avg Reward:  -106.32 | Critic Loss: 3524.9829 | Actor Loss:  35.9758 | Buffer Size:   4100 | Noise: 0.050
+2025-07-31 12:30:59,435 - INFO - Episode   50 | Avg Reward:  -106.31 | Critic Loss: 1669.2841 | Actor Loss:  39.1801 | Buffer Size:   5100 | Noise: 0.050
+2025-07-31 12:31:33,629 - INFO - Episode   60 | Avg Reward:  -106.32 | Critic Loss: 1374.9585 | Actor Loss:  45.7622 | Buffer Size:   6100 | Noise: 0.050
+2025-07-31 12:32:07,919 - INFO - Episode   70 | Avg Reward:  -106.30 | Critic Loss: 2442.8821 | Actor Loss:  48.6337 | Buffer Size:   7100 | Noise: 0.050
+2025-07-31 12:33:06,358 - INFO - Episode   80 | Avg Reward:  -106.36 | Critic Loss: 1872.4944 | Actor Loss:  52.8901 | Buffer Size:   8100 | Noise: 0.050
+2025-07-31 12:34:10,103 - INFO - Episode   90 | Avg Reward:  -106.33 | Critic Loss: 1170.4992 | Actor Loss:  54.1150 | Buffer Size:   9100 | Noise: 0.050
+2025-07-31 12:35:19,416 - INFO - Episode  100 | Avg Reward:  -106.31 | Critic Loss: 1141.2301 | Actor Loss:  53.3544 | Buffer Size:  10100 | Noise: 0.050
+2025-07-31 12:35:19,435 - INFO - Saved model checkpoint at episode 100
+2025-07-31 12:36:30,892 - INFO - Episode  110 | Avg Reward:  -106.38 | Critic Loss: 823.4178 | Actor Loss:  52.6191 | Buffer Size:  11100 | Noise: 0.050
+2025-07-31 12:37:33,369 - INFO - Episode  120 | Avg Reward:  -106.34 | Critic Loss: 800.4732 | Actor Loss:  50.4863 | Buffer Size:  12100 | Noise: 0.050
+2025-07-31 12:38:47,669 - INFO - Episode  130 | Avg Reward:  -106.33 | Critic Loss: 846.6222 | Actor Loss:  48.2523 | Buffer Size:  13100 | Noise: 0.050
+2025-07-31 12:39:50,447 - INFO - Episode  140 | Avg Reward:  -106.30 | Critic Loss: 1369.7710 | Actor Loss:  47.2044 | Buffer Size:  14100 | Noise: 0.050
+2025-07-31 12:40:54,989 - INFO - Episode  150 | Avg Reward:  -106.34 | Critic Loss: 1041.7218 | Actor Loss:  44.3377 | Buffer Size:  15100 | Noise: 0.050
+2025-07-31 12:41:53,545 - INFO - Episode  160 | Avg Reward:  -106.33 | Critic Loss: 1066.4485 | Actor Loss:  43.8321 | Buffer Size:  16100 | Noise: 0.050
+2025-07-31 12:42:51,878 - INFO - Episode  170 | Avg Reward:  -106.32 | Critic Loss: 652.9636 | Actor Loss:  42.0272 | Buffer Size:  17100 | Noise: 0.050
+2025-07-31 12:43:57,679 - INFO - Episode  180 | Avg Reward:  -106.30 | Critic Loss: 180.5961 | Actor Loss:  41.7325 | Buffer Size:  18100 | Noise: 0.050
+2025-07-31 12:45:14,929 - INFO - Episode  190 | Avg Reward:  -106.34 | Critic Loss: 499.0718 | Actor Loss:  41.0256 | Buffer Size:  19100 | Noise: 0.050
+2025-07-31 12:46:16,393 - INFO - Episode  200 | Avg Reward:  -106.34 | Critic Loss: 337.1285 | Actor Loss:  41.1136 | Buffer Size:  20100 | Noise: 0.050
+2025-07-31 12:46:16,404 - INFO - Saved model checkpoint at episode 200
+2025-07-31 12:47:22,248 - INFO - Episode  210 | Avg Reward:  -106.32 | Critic Loss:  47.2124 | Actor Loss:  40.3318 | Buffer Size:  21100 | Noise: 0.050
+2025-07-31 12:48:24,158 - INFO - Episode  220 | Avg Reward:  -106.32 | Critic Loss: 539.6789 | Actor Loss:  40.2290 | Buffer Size:  22100 | Noise: 0.050
+2025-07-31 12:49:37,244 - INFO - Episode  230 | Avg Reward:  -106.31 | Critic Loss: 1290.8865 | Actor Loss:  40.2898 | Buffer Size:  23100 | Noise: 0.050
+2025-07-31 12:50:49,107 - INFO - Episode  240 | Avg Reward:  -106.31 | Critic Loss: 872.0343 | Actor Loss:  40.7056 | Buffer Size:  24100 | Noise: 0.050
+2025-07-31 12:51:45,097 - INFO - Episode  250 | Avg Reward:  -106.31 | Critic Loss: 644.9050 | Actor Loss:  39.9778 | Buffer Size:  25100 | Noise: 0.050
+2025-07-31 12:52:51,847 - INFO - Episode  260 | Avg Reward:  -106.29 | Critic Loss: 726.6314 | Actor Loss:  40.5613 | Buffer Size:  26100 | Noise: 0.050
+2025-07-31 12:53:55,725 - INFO - Episode  270 | Avg Reward:  -106.33 | Critic Loss: 562.0708 | Actor Loss:  40.7580 | Buffer Size:  27100 | Noise: 0.050
+2025-07-31 12:55:06,516 - INFO - Episode  280 | Avg Reward:  -106.35 | Critic Loss: 715.6687 | Actor Loss:  40.5637 | Buffer Size:  28100 | Noise: 0.050
+2025-07-31 12:56:10,002 - INFO - Episode  290 | Avg Reward:  -106.32 | Critic Loss:  53.4419 | Actor Loss:  41.2295 | Buffer Size:  29100 | Noise: 0.050
+2025-07-31 12:57:20,450 - INFO - Episode  300 | Avg Reward:  -106.38 | Critic Loss: 910.4530 | Actor Loss:  41.0204 | Buffer Size:  30100 | Noise: 0.050
+2025-07-31 12:57:20,465 - INFO - Saved model checkpoint at episode 300
+2025-07-31 12:58:16,376 - INFO - Episode  310 | Avg Reward:  -106.31 | Critic Loss: 459.3262 | Actor Loss:  40.5999 | Buffer Size:  31100 | Noise: 0.050
+2025-07-31 12:59:27,397 - INFO - Episode  320 | Avg Reward:  -106.30 | Critic Loss: 133.5330 | Actor Loss:  40.5161 | Buffer Size:  32100 | Noise: 0.050
+2025-07-31 13:00:39,060 - INFO - Episode  330 | Avg Reward:  -106.33 | Critic Loss: 500.0174 | Actor Loss:  41.0234 | Buffer Size:  33100 | Noise: 0.050
+2025-07-31 13:01:48,104 - INFO - Episode  340 | Avg Reward:  -106.34 | Critic Loss:  24.2255 | Actor Loss:  40.7055 | Buffer Size:  34100 | Noise: 0.050
+2025-07-31 13:02:54,535 - INFO - Episode  350 | Avg Reward:  -106.32 | Critic Loss: 824.5642 | Actor Loss:  40.7804 | Buffer Size:  35100 | Noise: 0.050
+2025-07-31 13:04:02,553 - INFO - Episode  360 | Avg Reward:  -106.32 | Critic Loss: 214.0642 | Actor Loss:  40.9612 | Buffer Size:  36100 | Noise: 0.050
+2025-07-31 13:05:17,610 - INFO - Episode  370 | Avg Reward:  -106.31 | Critic Loss:  25.2969 | Actor Loss:  40.6544 | Buffer Size:  37100 | Noise: 0.050
+2025-07-31 13:06:27,410 - INFO - Episode  380 | Avg Reward:  -106.32 | Critic Loss:  15.9959 | Actor Loss:  40.7813 | Buffer Size:  38100 | Noise: 0.050
+2025-07-31 13:07:35,199 - INFO - Episode  390 | Avg Reward:  -106.35 | Critic Loss:  44.2075 | Actor Loss:  40.7878 | Buffer Size:  39100 | Noise: 0.050
+2025-07-31 13:08:36,285 - INFO - Episode  400 | Avg Reward:  -106.33 | Critic Loss: 582.9409 | Actor Loss:  40.8212 | Buffer Size:  40100 | Noise: 0.050
+2025-07-31 13:08:36,311 - INFO - Saved model checkpoint at episode 400
+2025-07-31 13:09:32,583 - INFO - Episode  410 | Avg Reward:  -106.32 | Critic Loss: 501.7876 | Actor Loss:  40.8206 | Buffer Size:  41100 | Noise: 0.050
+2025-07-31 13:10:24,436 - INFO - Episode  420 | Avg Reward:  -106.32 | Critic Loss: 657.1433 | Actor Loss:  41.0940 | Buffer Size:  42100 | Noise: 0.050
+2025-07-31 13:11:30,933 - INFO - Episode  430 | Avg Reward:  -106.35 | Critic Loss: 591.6973 | Actor Loss:  41.0450 | Buffer Size:  43100 | Noise: 0.050
+2025-07-31 13:12:45,409 - INFO - Episode  440 | Avg Reward:  -106.31 | Critic Loss:  91.5077 | Actor Loss:  41.1337 | Buffer Size:  44100 | Noise: 0.050
+2025-07-31 13:13:54,763 - INFO - Episode  450 | Avg Reward:  -106.34 | Critic Loss: 486.8826 | Actor Loss:  41.1139 | Buffer Size:  45100 | Noise: 0.050
+2025-07-31 13:14:58,541 - INFO - Episode  460 | Avg Reward:  -106.33 | Critic Loss:   5.5108 | Actor Loss:  40.8089 | Buffer Size:  46100 | Noise: 0.050
+2025-07-31 13:16:12,113 - INFO - Episode  470 | Avg Reward:  -106.33 | Critic Loss:  89.0706 | Actor Loss:  40.7424 | Buffer Size:  47100 | Noise: 0.050
+2025-07-31 13:17:28,516 - INFO - Episode  480 | Avg Reward:  -106.32 | Critic Loss: 169.0328 | Actor Loss:  40.6082 | Buffer Size:  48100 | Noise: 0.050
+2025-07-31 13:18:45,706 - INFO - Episode  490 | Avg Reward:  -106.35 | Critic Loss: 173.6411 | Actor Loss:  40.7674 | Buffer Size:  49100 | Noise: 0.050
+2025-07-31 13:19:45,391 - INFO - Final model saved to paper_compliant_ddpg.pth
+2025-07-31 13:19:46,210 - INFO - Average reward: -119.20
+2025-07-31 13:19:46,211 - INFO - Best reward: -106.25
+2025-07-31 13:19:46,211 - INFO - Final reward: -106.31
+2025-07-31 13:19:46,211 - INFO - Final noise std: 0.050
+2025-07-31 13:19:46,278 - INFO - Execution completed.
+2025-07-31 17:20:25,359 - INFO - === Modular DDPG Vehicle Platooning ===
+2025-07-31 17:20:25,359 - INFO - Paper: Multi-Task Vehicle Platoon Control: A Deep Deterministic Policy Gradient Approach
+2025-07-31 17:20:25,359 - INFO - Generating SUMO network files...
+2025-07-31 17:20:25,360 - INFO - SUMO files created in: sumo_files
+2025-07-31 17:20:27,055 - INFO - Using device: cpu
+2025-07-31 17:20:27,055 - INFO - Starting training for 500 episodes...
+2025-07-31 17:20:27,055 - INFO - Starting training for 500 episodes...
+2025-07-31 17:20:53,848 - INFO - Episode   10 | Avg Reward:  -656.22 | Critic Loss: 14875.5663 | Actor Loss:  42.9906 | Buffer Size:   1100 | Noise: 0.050
+2025-07-31 17:21:26,602 - INFO - Episode   20 | Avg Reward:  -106.34 | Critic Loss: 5399.3275 | Actor Loss:  47.6000 | Buffer Size:   2100 | Noise: 0.050
+2025-07-31 17:22:41,540 - INFO - Episode   30 | Avg Reward:  -106.31 | Critic Loss: 5449.8752 | Actor Loss:  48.4858 | Buffer Size:   3100 | Noise: 0.050
+2025-07-31 17:23:38,567 - INFO - Episode   40 | Avg Reward:  -106.32 | Critic Loss: 3488.2959 | Actor Loss:  52.6559 | Buffer Size:   4100 | Noise: 0.050
+2025-07-31 17:24:20,118 - INFO - Episode   50 | Avg Reward:  -106.30 | Critic Loss: 3073.2469 | Actor Loss:  53.9242 | Buffer Size:   5100 | Noise: 0.050
+2025-07-31 17:24:54,012 - INFO - Episode   60 | Avg Reward:  -106.31 | Critic Loss: 2393.9230 | Actor Loss:  53.5705 | Buffer Size:   6100 | Noise: 0.050
+2025-07-31 17:25:28,695 - INFO - Episode   70 | Avg Reward:  -106.31 | Critic Loss: 2045.3021 | Actor Loss:  54.0581 | Buffer Size:   7100 | Noise: 0.050
+2025-07-31 17:26:02,062 - INFO - Episode   80 | Avg Reward:  -106.32 | Critic Loss: 1195.2825 | Actor Loss:  55.0799 | Buffer Size:   8100 | Noise: 0.050
+2025-07-31 17:26:34,804 - INFO - Episode   90 | Avg Reward:  -106.36 | Critic Loss: 1838.0318 | Actor Loss:  58.0104 | Buffer Size:   9100 | Noise: 0.050
+2025-07-31 17:27:07,984 - INFO - Episode  100 | Avg Reward:  -106.33 | Critic Loss: 802.1211 | Actor Loss:  60.5499 | Buffer Size:  10100 | Noise: 0.050
+2025-07-31 17:27:08,028 - INFO - Saved model checkpoint at episode 100
+2025-07-31 17:27:38,727 - INFO - Episode  110 | Avg Reward:  -106.33 | Critic Loss: 207.1844 | Actor Loss:  62.7673 | Buffer Size:  11100 | Noise: 0.050
+2025-07-31 17:28:11,061 - INFO - Episode  120 | Avg Reward:  -106.34 | Critic Loss: 872.4387 | Actor Loss:  62.2391 | Buffer Size:  12100 | Noise: 0.050
+2025-07-31 17:28:42,960 - INFO - Episode  130 | Avg Reward:  -106.32 | Critic Loss: 1712.4416 | Actor Loss:  60.4599 | Buffer Size:  13100 | Noise: 0.050
+2025-07-31 17:29:15,894 - INFO - Episode  140 | Avg Reward:  -106.32 | Critic Loss: 538.5798 | Actor Loss:  56.0203 | Buffer Size:  14100 | Noise: 0.050
+2025-07-31 17:29:51,272 - INFO - Episode  150 | Avg Reward:  -106.32 | Critic Loss: 679.0333 | Actor Loss:  53.0029 | Buffer Size:  15100 | Noise: 0.050
+2025-07-31 17:30:24,921 - INFO - Episode  160 | Avg Reward:  -106.30 | Critic Loss: 508.2841 | Actor Loss:  48.8376 | Buffer Size:  16100 | Noise: 0.050
+2025-07-31 17:30:58,158 - INFO - Episode  170 | Avg Reward:  -106.34 | Critic Loss: 349.1812 | Actor Loss:  45.9079 | Buffer Size:  17100 | Noise: 0.050
+2025-07-31 17:31:34,235 - INFO - Episode  180 | Avg Reward:  -106.29 | Critic Loss: 1243.3507 | Actor Loss:  44.0684 | Buffer Size:  18100 | Noise: 0.050
+2025-07-31 17:32:05,870 - INFO - Episode  190 | Avg Reward:  -106.33 | Critic Loss: 650.5100 | Actor Loss:  42.3414 | Buffer Size:  19100 | Noise: 0.050
+2025-07-31 17:32:37,631 - INFO - Episode  200 | Avg Reward:  -106.34 | Critic Loss: 934.7324 | Actor Loss:  41.4857 | Buffer Size:  20100 | Noise: 0.050
+2025-07-31 17:32:37,638 - INFO - Saved model checkpoint at episode 200
+2025-07-31 17:33:10,358 - INFO - Episode  210 | Avg Reward:  -106.35 | Critic Loss:  93.6136 | Actor Loss:  41.4575 | Buffer Size:  21100 | Noise: 0.050
+2025-07-31 17:33:45,601 - INFO - Episode  220 | Avg Reward:  -106.31 | Critic Loss: 567.2700 | Actor Loss:  41.7220 | Buffer Size:  22100 | Noise: 0.050
+2025-07-31 17:34:20,410 - INFO - Episode  230 | Avg Reward:  -106.30 | Critic Loss: 207.9065 | Actor Loss:  41.1538 | Buffer Size:  23100 | Noise: 0.050
+2025-07-31 17:34:52,035 - INFO - Episode  240 | Avg Reward:  -106.33 | Critic Loss: 1085.0190 | Actor Loss:  40.7403 | Buffer Size:  24100 | Noise: 0.050
+2025-07-31 17:35:27,126 - INFO - Episode  250 | Avg Reward:  -106.32 | Critic Loss: 169.1151 | Actor Loss:  40.9173 | Buffer Size:  25100 | Noise: 0.050
+2025-07-31 17:36:00,095 - INFO - Episode  260 | Avg Reward:  -106.30 | Critic Loss: 840.1624 | Actor Loss:  40.0399 | Buffer Size:  26100 | Noise: 0.050
+2025-07-31 17:36:33,755 - INFO - Episode  270 | Avg Reward:  -106.32 | Critic Loss: 433.3471 | Actor Loss:  40.0394 | Buffer Size:  27100 | Noise: 0.050
+2025-07-31 17:37:06,208 - INFO - Episode  280 | Avg Reward:  -106.34 | Critic Loss: 400.1906 | Actor Loss:  39.8938 | Buffer Size:  28100 | Noise: 0.050
+2025-07-31 17:37:38,378 - INFO - Episode  290 | Avg Reward:  -106.31 | Critic Loss: 391.6373 | Actor Loss:  39.5123 | Buffer Size:  29100 | Noise: 0.050
+2025-07-31 17:38:11,908 - INFO - Episode  300 | Avg Reward:  -106.32 | Critic Loss: 654.3519 | Actor Loss:  39.4762 | Buffer Size:  30100 | Noise: 0.050
+2025-07-31 17:38:11,916 - INFO - Saved model checkpoint at episode 300
+2025-07-31 17:38:44,735 - INFO - Episode  310 | Avg Reward:  -106.35 | Critic Loss: 301.4368 | Actor Loss:  39.5315 | Buffer Size:  31100 | Noise: 0.050
+2025-07-31 17:39:16,255 - INFO - Episode  320 | Avg Reward:  -106.32 | Critic Loss: 741.4885 | Actor Loss:  39.9231 | Buffer Size:  32100 | Noise: 0.050
+2025-07-31 17:39:48,901 - INFO - Episode  330 | Avg Reward:  -106.36 | Critic Loss: 185.8700 | Actor Loss:  39.6792 | Buffer Size:  33100 | Noise: 0.050
+2025-07-31 17:40:29,674 - INFO - Episode  340 | Avg Reward:  -106.37 | Critic Loss: 146.7205 | Actor Loss:  40.0938 | Buffer Size:  34100 | Noise: 0.050
+2025-07-31 17:41:17,003 - INFO - Episode  350 | Avg Reward:  -106.31 | Critic Loss: 328.6301 | Actor Loss:  39.6688 | Buffer Size:  35100 | Noise: 0.050
+2025-07-31 17:42:36,442 - INFO - Episode  360 | Avg Reward:  -106.31 | Critic Loss: 349.4094 | Actor Loss:  39.4040 | Buffer Size:  36100 | Noise: 0.050
+2025-07-31 17:44:18,381 - INFO - Episode  370 | Avg Reward:  -106.34 | Critic Loss:  39.6050 | Actor Loss:  39.2171 | Buffer Size:  37100 | Noise: 0.050
+2025-07-31 17:45:31,481 - INFO - Episode  380 | Avg Reward:  -106.33 | Critic Loss:  76.3073 | Actor Loss:  38.8734 | Buffer Size:  38100 | Noise: 0.050
+2025-07-31 17:47:08,070 - INFO - Episode  390 | Avg Reward:  -106.34 | Critic Loss: 169.6393 | Actor Loss:  38.8773 | Buffer Size:  39100 | Noise: 0.050
+2025-07-31 17:48:04,778 - INFO - Episode  400 | Avg Reward:  -106.36 | Critic Loss:  11.7805 | Actor Loss:  38.9422 | Buffer Size:  40100 | Noise: 0.050
+2025-07-31 17:48:04,788 - INFO - Saved model checkpoint at episode 400
+2025-07-31 17:48:54,499 - INFO - Episode  410 | Avg Reward:  -106.32 | Critic Loss: 706.2033 | Actor Loss:  38.9503 | Buffer Size:  41100 | Noise: 0.050
+2025-07-31 17:50:22,660 - INFO - Episode  420 | Avg Reward:  -106.31 | Critic Loss: 394.8781 | Actor Loss:  39.0364 | Buffer Size:  42100 | Noise: 0.050
+2025-07-31 17:52:11,800 - INFO - Episode  430 | Avg Reward:  -106.29 | Critic Loss: 132.3088 | Actor Loss:  38.8485 | Buffer Size:  43100 | Noise: 0.050
+2025-07-31 17:54:04,941 - INFO - Episode  440 | Avg Reward:  -106.31 | Critic Loss:   9.8895 | Actor Loss:  39.1895 | Buffer Size:  44100 | Noise: 0.050
+2025-07-31 17:55:51,246 - INFO - Episode  450 | Avg Reward:  -106.34 | Critic Loss: 848.7848 | Actor Loss:  39.1247 | Buffer Size:  45100 | Noise: 0.050
+2025-07-31 17:57:47,467 - INFO - Episode  460 | Avg Reward:  -106.35 | Critic Loss:  10.1302 | Actor Loss:  39.3010 | Buffer Size:  46100 | Noise: 0.050
+2025-07-31 17:59:45,545 - INFO - Episode  470 | Avg Reward:  -106.34 | Critic Loss:   6.4134 | Actor Loss:  39.1015 | Buffer Size:  47100 | Noise: 0.050
+2025-07-31 18:00:56,688 - INFO - Episode  480 | Avg Reward:  -106.35 | Critic Loss:  12.7941 | Actor Loss:  39.5362 | Buffer Size:  48100 | Noise: 0.050
+2025-07-31 18:01:28,684 - INFO - Episode  490 | Avg Reward:  -106.32 | Critic Loss: 764.0808 | Actor Loss:  39.2964 | Buffer Size:  49100 | Noise: 0.050
+2025-07-31 18:02:13,566 - INFO - Final model saved to paper_compliant_ddpg.pth
+2025-07-31 18:02:15,168 - INFO - Average reward: -117.33
+2025-07-31 18:02:15,169 - INFO - Best reward: -106.26
+2025-07-31 18:02:15,169 - INFO - Final reward: -106.39
+2025-07-31 18:02:15,169 - INFO - Final noise std: 0.050
+2025-07-31 18:02:15,231 - INFO - Execution completed.
+2025-07-31 18:02:35,418 - INFO - === Modular DDPG Vehicle Platooning ===
+2025-07-31 18:02:35,418 - INFO - Paper: Multi-Task Vehicle Platoon Control: A Deep Deterministic Policy Gradient Approach
+2025-07-31 18:02:35,418 - INFO - Generating SUMO network files...
+2025-07-31 18:02:35,420 - INFO - SUMO files created in: sumo_files
+2025-07-31 18:02:37,342 - INFO - Using device: cpu
+2025-07-31 18:02:37,342 - INFO - Starting testing of trained model...
+2025-07-31 18:02:37,433 - INFO - Loaded model from paper_compliant_ddpg.pth
+2025-07-31 18:02:37,434 - INFO - Running test episode 1/5
+2025-07-31 18:02:39,067 - INFO - Running test episode 2/5
+2025-07-31 18:02:40,246 - INFO - Running test episode 3/5
+2025-07-31 18:02:41,969 - INFO - Running test episode 4/5
+2025-07-31 18:02:43,792 - INFO - Running test episode 5/5
+2025-07-31 18:02:45,498 - INFO - === Test Results ===
+2025-07-31 18:02:45,498 - INFO - Average Episode Reward: -106.23
+2025-07-31 18:02:45,499 - INFO - Average Gap Error: 183.064 m
+2025-07-31 18:02:45,499 - INFO - Average Speed Difference: 14.237 m/s
+2025-07-31 18:02:45,499 - INFO - Collision Count: 0
+2025-07-31 18:02:45,718 - INFO - Execution completed.
+2025-07-31 18:16:33,214 - INFO - === Modular DDPG Vehicle Platooning ===
+2025-07-31 18:16:33,215 - INFO - Paper: Multi-Task Vehicle Platoon Control: A Deep Deterministic Policy Gradient Approach
+2025-07-31 18:16:33,215 - INFO - Generating SUMO network files...
+2025-07-31 18:16:33,216 - INFO - SUMO files created in: sumo_files
+2025-07-31 18:16:34,620 - INFO - Using device: cpu
+2025-07-31 18:16:34,620 - INFO - Starting training for 500 episodes...
+2025-07-31 18:16:34,620 - INFO - Starting training for 500 episodes...
+2025-07-31 18:17:02,306 - INFO - Episode   10 | Avg Reward: -1416.35 | Critic Loss: 38765.6327 | Actor Loss:  47.0709 | Buffer Size:   1100 | Noise: 0.050
+2025-07-31 18:18:10,819 - INFO - Episode   20 | Avg Reward:  -106.32 | Critic Loss: 20252.4793 | Actor Loss:  46.7718 | Buffer Size:   2100 | Noise: 0.050
